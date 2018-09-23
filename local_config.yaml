@@ -1,0 +1,12 @@
+app_name: 'App(dev)'
+db:
+  host: 'localhost'
+  database: 'db'
+  user: 'db1'
+  password: '123'
+  port: 5432
+dev: true
+logger:
+  info: 'info23331.log'
+  debug: 'debug.log'
+  error: 'error.log'
