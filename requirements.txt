@@ -10,5 +10,5 @@ raven-aiohttp==0.5.0
 voluptuous==0.9.3
 yarl==0.10.0
 PyJWT==1.7.1
-cryptography==2.9.2
+cryptography==3.3.2
 aioreloader
